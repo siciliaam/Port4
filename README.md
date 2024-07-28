@@ -1,0 +1,1 @@
+This file contains the frontend code for the "Joki Games" website. The pages created for our website include the login page, sign-up page, landing page, about us page, list Games page, and individual game pages for the games that will be boosted.
